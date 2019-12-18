@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'vegetablegarden.wsgi.application'
+WSGI_APPLICATION = 'vegetablegarden.wsgi.application' 
 
 
 # Database
