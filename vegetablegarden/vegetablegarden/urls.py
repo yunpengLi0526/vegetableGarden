@@ -20,4 +20,5 @@ from raidCheck import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url('index',views.hello),
+    url('',views.index,name='index')
 ]
